@@ -1,1 +1,1 @@
-# selenium-java-actions
+# selenium-java-actions-class
